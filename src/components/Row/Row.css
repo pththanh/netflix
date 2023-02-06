@@ -17,7 +17,7 @@
 .row-poster {
   max-height: 100px;
   object-fit: contain;
-  margin-right: 10px;
+  margin-right: 20px;
   width: 100%;
   transition: transform 450ms;
 }
